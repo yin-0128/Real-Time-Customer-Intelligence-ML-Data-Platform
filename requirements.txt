@@ -1,0 +1,24 @@
+# Data Ingestion
+confluent-kafka
+
+# Data Processing
+pyspark
+pandas
+
+# Storage
+psycopg2-binary
+sqlalchemy
+
+# Machine Learning
+scikit-learn
+mlflow
+
+# API
+fastapi
+uvicorn
+
+# Dashboard
+streamlit
+
+# Orchestration
+apache-airflow
